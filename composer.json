@@ -2,7 +2,7 @@
   "name": "rplaurindo/xploader",
   "version": "1.0.0",
   "homepage": "https://github.com/rplaurindo/xploader",
-  "description": "A recursive path loader.",
+  "description": "A recursive path loader for PHP.",
   "type": "library",
   "license": "MIT",
   "authors": [
