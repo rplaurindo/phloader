@@ -1,0 +1,23 @@
+{
+  "name": "rplaurindo/xploader",
+  "version": "1.0.0",
+  "homepage": "https://github.com/rplaurindo/xploader",
+  "description": "A recursive path loader.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Rafael Laurindo",
+      "email": "rafaelplaurindo@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "~5.6",
+    "rplaurindo/graphite": "^1"
+  },
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  }
+}
